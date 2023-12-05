@@ -2,7 +2,7 @@ package piccross;
 /**
  * UPDATED VERSION
  * Assessment:- Assignment01
- * Student Name:- Harsh Bansal
+ * Student Name:- Joshua Ayyasamy
  * Section:- CST8221_300_302
  * Lab Professor Name:- Prof. Daniel Cormier
  * Submission Date:-November 13, 2021
@@ -23,7 +23,7 @@ package piccross;
 
 /**
  * The main class of the game
- * @author Harsh
+ * @author Joshua
  * @version 1.2
  * 
  *
