@@ -6,7 +6,7 @@ import javax.swing.JButton;
 /**
  * UPDATED VERSION
  * Assessment:- Assignment01
- * Student Name:- Harsh Bansal
+ * Student Name:- Joshua Ayyasamy
  * Section:- CST8221_300_302
  * Lab Professor Name:- Prof. Daniel Cormier
  * Submission Date:-November 13, 2021
