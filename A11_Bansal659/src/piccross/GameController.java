@@ -4,7 +4,7 @@ package piccross;
 /**
  * UPDATED VERSION
  * Assessment:- Assignment01
- * Student Name:- Harsh Bansal
+ * Student Name:- Joshua Ayyasamy
  * Section:- CST8221_300_302
  * Lab Professor Name:- Prof. Daniel Cormier
  * Submission Date:-November 13, 2021
@@ -39,7 +39,7 @@ import javax.swing.event.MenuEvent;
 import javax.swing.event.MenuListener;
 /**
  * This class has the main interface design of the game. It displays the main UI of the game
- * @author Harsh Bansal
+ * @author Joshua
  * @version 1.2
  * @since Java 8
  *
