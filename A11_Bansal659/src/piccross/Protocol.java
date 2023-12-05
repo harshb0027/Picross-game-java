@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.StringTokenizer;
 /**--------------------	UPDATED VERSION -------- ASSIGNMENT-03------------------------------- 
  * Assessment:- Assignment01
- * Student Name:- Harsh Bansal
+ * Student Name:- Joshua Ayyasamy
  * Section:- CST8221_300_302
  * Lab Professor Name:- Prof. Daniel Cormier
  * Submission Date:- December 11, 2021
@@ -19,7 +19,7 @@ import java.util.StringTokenizer;
  * 
  *This class has the main functionality for creating a new game. It creates a random game and returns that 
  *string.
- * @author harsh
+ * @author Joshua
  * @version 1.1
  * 
  *
