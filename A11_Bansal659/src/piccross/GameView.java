@@ -2,7 +2,7 @@ package piccross;
 
 /**--------------------	UPDATED VERSION -------- ASSIGNMENT-01------------------------------- 
  * Assessment:- Assignment01
- * Student Name:- Harsh Bansal
+ * Student Name:- Joshua Ayyasamy
  * Section:- CST8221_300_302
  * Lab Professor Name:- Prof. Daniel Cormier
  * Submission Date:- November 13, 2021
@@ -33,7 +33,7 @@ import javax.swing.event.MenuEvent;
 import javax.swing.event.MenuListener;
 
 /** 
- * @author harsh
+ * @author Joshua
  * @version 2
  *This class holds the game view of the UI. It has the methods to build the menu, initialize the game, 
  *splash screen, and the color chooser option.
