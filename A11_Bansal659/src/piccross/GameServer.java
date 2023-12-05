@@ -20,7 +20,7 @@ import javax.swing.*;
 
 /**--------------------	UPDATED VERSION -------- ASSIGNMENT-03------------------------------- 
  * Assessment:- Assignment01
- * Student Name:- Harsh Bansal
+ * Student Name:- Joshua Ayyasamy
  * Section:- CST8221_300_302
  * Lab Professor Name:- Prof. Daniel Cormier
  * Submission Date:- December 11, 2021
@@ -40,7 +40,7 @@ import javax.swing.*;
  * Working of the code:- 
  * execute button of the server will run the server and will wait for the clients to connect
  * For each of the client a new thread is generated with the help of runnable 
- * @author harsh
+ * @author Joshua
  * @version 1.1
  * 
  *
