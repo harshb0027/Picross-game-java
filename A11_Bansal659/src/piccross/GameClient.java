@@ -51,7 +51,7 @@ import java.util.*;
  * Working of the code:- 
  * execute button of the server will run the server and will wait for the clients to connect
  * For each of the client a new thread is generated with the help of runnable 
- * @author harsh
+ * @author Joshua
  * @version 1.1
  * 
  *
