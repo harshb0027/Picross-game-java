@@ -31,8 +31,8 @@ import java.util.*;
  * 
 /**--------------------	UPDATED VERSION -------- ASSIGNMENT-03------------------------------- 
  * Assessment:- Assignment01
- * Student Name:- Harsh Bansal
- * Section:- CST8221_300_302
+ * Student Name:- Joshua Ayyasamy
+ * Section:- 302
  * Lab Professor Name:- Prof. Daniel Cormier
  * Submission Date:- December 11, 2021
  * 
